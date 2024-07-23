@@ -1,3 +1,11 @@
+Spanish: Contacta a thepythontimes8@gmail.com para soporte
+German: Wenden Sie sich an thepythontimes8@gmail.com für Unterstützung
+Italian: Contatta thepythontimes8@gmail.com per supporto
+French: Contactez thepythontimes8@gmail.com pour obtenir de l'aide
+English: Reach out to thepythontimes8@gmail.com for support
+
+
+
 # English
 Welcome to Never Have I Ever, a fun and engaging game perfect for playing with friends!
 
